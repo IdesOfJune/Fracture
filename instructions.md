@@ -12,7 +12,7 @@ Fracture is a turn-based, multiplayer strategy game that demonstrates each Blink
 
 ### Goal
 
-The win state of each team or player is to get all the Blinks corresponding to their color to touch a) touch at least two other Blinks and b) be touching only Blinks of a different color than its own. When a Blink satisfies these conditions, it will start an animation that shows it ‘blinking’ continuously in happiness. In any other case, it will simply display its color and remain static. 
+The win state of each team or player is to get all the Blinks corresponding to their color to touch **a)** touch at least two other Blinks and **b)** be touching only Blinks of a different color than its own. When a Blink satisfies these conditions, it will start an animation that shows it ‘blinking’ continuously in happiness. In any other case, it will simply display its color and remain static. 
 
 ### Gameplay
 
