@@ -1,14 +1,13 @@
 # INSTRUCTIONS for FRACTURE
 
-A competitive game toward diversity
 
 ### Premise
 
-Fracture is a turn-based, multiplayer strategy game that demonstrates each Blinks’ capability to recognize the presence and status of their neighbors and respond accordingly. It is one of the first Blinks games created and is straightforward and easy to learn, but also provides a lot of depth in its gameplay. 
+Fracture is a simple turn-based strategy game for 3-6 playes. It was the first Blinks game created! 
 
 ### Setup
 
-3-6 players. Each player gets 5-6 tiles of a specific color. The game starts when all tiles are connected. At the start of the game, make sure all pieces are segregated by color. (ex. All Red pieces attached together, All Blue pieces attached together, etc.) 
+3-6 players. Each player gets 4-6 tiles of the same color. The game starts when all tiles are connected. At the start of the game, make sure all pieces are segregated by color. (ex. All Red pieces attached together, All Blue pieces attached together, etc.) 
 
 ### Goal
 
@@ -16,9 +15,9 @@ The win state of each team or player is to get all their Blinks to
 
 **a)** touch at least two other Blinks **AND**
 
-**b)** be touching only Blinks of a different color than its own. 
+**b)** not be touching its own color. 
 
-When a Blink satisfies these conditions, it will start an animation that shows it ‘blinking’ continuously in happiness. In any other case, it will simply display its color and remain static. 
+When a Blink satisfies both these conditions, it will start an animation that shows it ‘blinking’ continuously in happiness. In any other case, it will simply display its color and remain static. 
 
 ### Gameplay
 
